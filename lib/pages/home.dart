@@ -6,11 +6,11 @@ class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
   @override
-  Widget build( BuildContext context ) {
+  Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Jakes Workout App',
+          'Jakes Workout App With a little Hentai',
           style: TextStyle(
             color: Colors.black,
             fontSize: 18,
